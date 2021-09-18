@@ -1,3 +1,4 @@
+#use this script to get files for each trainer from each trainer url in the gettrainerlinks.py script results
 import re
 from bs4 import BeautifulSoup
 import requests
