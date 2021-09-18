@@ -1,3 +1,4 @@
+#use this script to get each trainer detailed info use urls from the gettrainerlinks.py
 import re
 from bs4 import BeautifulSoup
 import requests
