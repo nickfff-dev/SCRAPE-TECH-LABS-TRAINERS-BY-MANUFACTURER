@@ -26,7 +26,7 @@ pages = ["https://tech-labs.com/manufacturers/bayport-technical"]
 
 
 
-for page in pages:
+for page in pages:   #replace with variable ukurasa in paginated pages
 
     driver.get(page)
    
