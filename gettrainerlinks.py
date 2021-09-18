@@ -17,7 +17,7 @@ pages = ["https://tech-labs.com/manufacturers/bayport-technical"]
 # tejas = ["0","1","2","3","4","5","6","7","8"]
 
 # for teja in tejas:
-#     pages.append(ukurasa[0]+teja)
+#     ukurasa.append(ukurasa[0]+teja)
 
 
 
